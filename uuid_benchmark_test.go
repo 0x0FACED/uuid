@@ -22,7 +22,7 @@ package uuid
 // }
 
 // // gofrs v1
-// func BenchmarkUUIDv1_Gorfs(b *testing.B) {
+// func BenchmarkUUIDv1_Gofrs(b *testing.B) {
 // 	for i := 0; i < b.N; i++ {
 // 		_, _ = gofrs.NewV1()
 // 	}

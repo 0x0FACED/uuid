@@ -29,11 +29,11 @@ BenchmarkUUIDv1_Google-12       16690766                72.87 ns/op            0
 BenchmarkUUIDv1_Google-12       15567649                75.49 ns/op            0 B/op          0 allocs/op
 BenchmarkUUIDv1_Google-12       15815245                71.14 ns/op            0 B/op          0 allocs/op
 BenchmarkUUIDv1_Google-12       16728276                70.73 ns/op            0 B/op          0 allocs/op
-BenchmarkUUIDv1_Gorfs-12        17033306                69.00 ns/op            0 B/op          0 allocs/op
-BenchmarkUUIDv1_Gorfs-12        17425020                71.96 ns/op            0 B/op          0 allocs/op
-BenchmarkUUIDv1_Gorfs-12        14771188                69.01 ns/op            0 B/op          0 allocs/op
-BenchmarkUUIDv1_Gorfs-12        16247008                70.54 ns/op            0 B/op          0 allocs/op
-BenchmarkUUIDv1_Gorfs-12        15859628                69.46 ns/op            0 B/op          0 allocs/op
+BenchmarkUUIDv1_Gofrs-12        17033306                69.00 ns/op            0 B/op          0 allocs/op
+BenchmarkUUIDv1_Gofrs-12        17425020                71.96 ns/op            0 B/op          0 allocs/op
+BenchmarkUUIDv1_Gofrs-12        14771188                69.01 ns/op            0 B/op          0 allocs/op
+BenchmarkUUIDv1_Gofrs-12        16247008                70.54 ns/op            0 B/op          0 allocs/op
+BenchmarkUUIDv1_Gofrs-12        15859628                69.46 ns/op            0 B/op          0 allocs/op
 BenchmarkUUIDv2_Ours-12          5414661               220.8 ns/op             0 B/op          0 allocs/op
 BenchmarkUUIDv2_Ours-12          5409886               219.9 ns/op             0 B/op          0 allocs/op
 BenchmarkUUIDv2_Ours-12          5452830               219.9 ns/op             0 B/op          0 allocs/op
