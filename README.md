@@ -2,6 +2,8 @@
 
 Fast UUID generator.
 
+[RFC 4122 - A Universally Unique IDentifier (UUID) URN Namespace](https://datatracker.ietf.org/doc/html/rfc4122)
+
 ## Supported versions
 
 - [x] Version 1
